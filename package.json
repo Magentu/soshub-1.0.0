@@ -1,0 +1,19 @@
+{
+  "name": "soshub",
+  "version": "1.0.0",
+  "description": "soshub package ",
+  "main": "app_Quit_Control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOSHUB7/app_Quit_Control.git"
+  },
+  "author": "soshub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SOSHUB7/app_Quit_Control/issues"
+  },
+  "homepage": "https://github.com/SOSHUB7/app_Quit_Control#readme"
+}

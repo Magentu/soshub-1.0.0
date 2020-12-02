@@ -28,4 +28,4 @@ Options
 
 ...
 
-# copy right@soshub developers
+# copy right@soshub.co
